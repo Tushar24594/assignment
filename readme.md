@@ -1,7 +1,7 @@
 # TEST ASSIGNMENT
 
 # Requirements => Node v8 +
-# Install => npm i
+# Install => npm i or install with install.bat
 # Dependencies => fs , express, body-parser 
 
 # Start with Start.bat of with npm start
